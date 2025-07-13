@@ -1,22 +1,31 @@
-# Small Business GRC Risk & Compliance Assessment
+# GRC Audit Report – Small Phone Repair Business
 
-## 🛡️ About the Project
-This project simulates how a GRC Analyst would help a small business improve its security posture through risk assessment, policy writing, and control reviews.
+This project contains a sample GRC (Governance, Risk, and Compliance) audit of a small phone repair business, operated by a friend with multiple kiosks and a store in a mall. It focuses on practical cybersecurity and operational risks that small businesses often overlook.
 
-## 🎯 Objectives
-- Identify and assess security risks
-- Develop basic information security policies
-- Create an internal audit checklist
-- Demonstrate GRC knowledge in a practical, beginner-friendly way
+## 📄 Files Included
 
-## 📁 Included Files
-- `risk_register.xlsx`: Sample risk register outlining assets, threats, risks, and mitigation
-- `password_policy.pdf`: Custom-written password policy
-- `acceptable_use_policy.pdf`: Responsible use of technology in the workplace
-- `audit_controls_checklist.pdf`: Checklist for reviewing internal security controls
-- `GRC_tool_summary.md`: Notes summarizing ServiceNow GRC, Archer, and other tools
+- `grc_audit_report.md` – A detailed markdown report analyzing business operations, risk areas, and suggested improvements.
+- `risk_register_phone_store.ods` – A structured spreadsheet listing identified risks, their likelihood, and suggested mitigation strategies.
 
-## 👤 Created By
-Kajol Adhikari  
-Cybersecurity Graduate | CompTIA Security+ Certified | Aspiring GRC Analyst  
-[LinkedIn](https://www.linkedin.com/in/kajoladk/)
+## 🛠️ Key Focus Areas
+
+- Poor screen part tracking and quality control
+- Lack of system for employee accountability
+- No documented security or repair procedures
+- Customer complaint management gaps
+
+## 🎯 Objective
+
+To demonstrate real-world application of risk assessment, documentation, and recommendations in a non-corporate, practical environment.
+
+## 🔐 Tools & Concepts Used
+
+- Risk Register
+- Basic compliance assessment
+- Cyber hygiene for small businesses
+- Observational GRC methods
+
+---
+
+This is a beginner-friendly GRC case study for personal learning and portfolio demonstration.
+
