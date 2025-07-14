@@ -1,6 +1,6 @@
 #  GRC Risk Assessment Project – Phone Repair Business
 
-This project demonstrates how basic **Governance, Risk, and Compliance (GRC)** principles apply to a small phone repair store — like my friend's local business with multiple mall kiosks and a repair center.
+This project demonstrates how basic **Governance, Risk, and Compliance (GRC)** principles apply to a small phone repair store , like my friend's local business with multiple mall kiosks and a repair center.
 
 ---
 
