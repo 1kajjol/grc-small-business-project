@@ -1,47 +1,23 @@
-#  GRC Risk Assessment Project – Phone Repair Business
+# GRC Risk & Compliance Assessment – Small Business Case Study
 
-This project demonstrates how basic **Governance, Risk, and Compliance (GRC)** principles apply to a small phone repair store , like my friend's local business with multiple mall kiosks and a repair center.
+## Executive Summary
+This project presents a governance, risk, and compliance (GRC) assessment conducted for a small retail phone repair business operating in a mall environment. The objective was to identify key operational, cybersecurity, and compliance risks, evaluate their potential business impact, and recommend practical mitigation strategies appropriate for a small business with limited resources.
 
----
+### Key Outcomes and deliverables
+- Identified and documented high-impact risks related to data protection, physical security, access control, and business continuity.
+- Developed a structured risk register with likelihood and impact scoring.
+- Provided prioritized, cost-effective control recommendations aligned with small-business constraints.
+- Produced an audit-style report suitable for leadership review.
 
-##  Purpose
+## Scope
+- Business type: Small retail phone repair store
+- Environment: In-store operations, customer data handling, point-of-sale systems
+- Assets assessed: Customer data, devices under repair, employee access, physical location
 
-To analyze real-life risks faced by small businesses and recommend practical security and management improvements.
+## Methodology
+- Risk identification through operational walkthrough and threat scenario analysis
+- Qualitative risk scoring based on likelihood and business impact
+- Risk documentation using a formal risk register
+- Control recommendations informed by common GRC best practices (e.g., access control, data protection, incident preparedness)
 
----
-
-##  Files Included
-
-- **risk_register_phone_store.ods**  
-  A spreadsheet outlining various operational and cybersecurity risks, such as:
-  - Poor screen quality during phone replacements
-  - Inadequate inventory and repair tracking
-  - Lack of proper employee training
-  - No backup/data protection protocols
-
-- **grc_audit_report.md**  
-  A written summary of the GRC gaps observed, analysis, and practical recommendations.
-
----
-
-##  Key GRC Concepts Applied
-
-- Risk Identification & Mitigation
-- Asset Management
-- Insider Threat Risk
-- Physical Security Concerns
-- Documentation and Training Gaps
-
----
-
-## How to View
-
-- Download the `.ods` file to view the full risk register
-- View `grc_audit_report.md` directly in GitHub for written analysis
-
----
-
-##  Outcome
-
-This project shows how GRC analysts can add value — even for businesses without technical staff or complex infrastructure — by applying security best practices in practical, understandable ways.
 
