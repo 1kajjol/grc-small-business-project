@@ -1,21 +1,52 @@
-# GRC Analysis: Mobile Repair Shop Audit
+# GRC Risk Assessment – Mobile Device Repair Business
 
-This project is based on a small business GRC audit I conducted at my friend’s phone repair store. She operates a few kiosks and a storefront, but lacks a formal system for managing risks.
+## Overview
+This document presents the findings of a governance, risk, and compliance (GRC) assessment conducted for a small mobile device repair business operating through retail kiosks and a storefront location. The purpose of the assessment was to identify operational, security, and reputational risks and to evaluate the adequacy of existing controls in a small-business environment.
 
-## What I Observed
-- No proper inventory or quality control system.
-- Customer complaints due to poor screen quality after repairs.
-- No documentation or security measures for customer devices.
+The business operates without a formal risk management program, making it susceptible to preventable losses and customer trust issues.
 
-## What I Did
-- Created a basic risk register using LibreOffice.
-- Identified common operational, financial, and reputational risks.
-- Categorized each risk by impact, likelihood, and mitigation status.
+---
 
-## Tools Used
-- Ubuntu OS
-- LibreOffice Calc
-- Git & GitHub for version control
+## Key Findings
+The assessment identified several notable risk areas:
 
-## Why This Matters
-This GRC mini audit helped me understand how risk frameworks apply in even the smallest businesses. It reflects my ability to identify and mitigate real-world operational threats.
+- **Inventory and Quality Control:**  
+  The absence of a formal inventory tracking or quality assurance process increases the risk of device loss, repair errors, and inconsistent service quality.
+
+- **Customer Device Protection:**  
+  Customer devices under repair were not governed by documented handling, storage, or security procedures, increasing the risk of theft, damage, or unauthorized access.
+
+- **Reputational Risk:**  
+  Customer complaints related to post-repair issues indicate potential reputational damage and loss of repeat business.
+
+- **Operational Documentation Gaps:**  
+  There was no documented process for managing incidents, customer disputes, or service failures.
+
+---
+
+## Risk Assessment Approach
+Risks were evaluated using a qualitative assessment methodology based on:
+- Likelihood of occurrence
+- Potential business impact
+- Current mitigation status
+
+Each identified risk was documented in a structured risk register to support prioritization and remediation planning.
+
+---
+
+## Recommendations
+Based on the assessment, the following actions were recommended:
+- Implement basic inventory tracking and repair validation processes
+- Establish clear procedures for secure storage and handling of customer devices
+- Introduce minimal documentation for incident handling and customer complaints
+- Provide basic employee guidance on operational and data protection responsibilities
+
+These recommendations were intentionally designed to be practical and cost-effective for a small business without dedicated security or compliance staff.
+
+---
+
+## Conclusion
+This assessment demonstrates how GRC principles can be applied effectively within small business environments. Even minimal governance and risk controls can significantly reduce operational, security, and reputational exposure when implemented thoughtfully.
+
+The findings highlight the importance of structured risk awareness and basic control implementation, regardless of organization size.
+The assessment reinforced the importance of balancing formal risk controls with the operational realities of small retail environments.
